@@ -2,7 +2,7 @@
 
 namespace _2_Array_Of_Delegates
 {
-    delegate int MyDelegate(int a, int b, int c);
+    delegate int MyDelegate(int a, int b, int c);  // 1
     internal class Program
     {
         public static int Max(int a, int b, int c)
